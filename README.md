@@ -1,12 +1,8 @@
 # My learning path sequence
-1. JavaScript HTML DOM (party)
-2. Page with DOM interactions
-3. BOM (partly)
-4. Page with BOM DOM interactions
-5. AJAX
-6. ASYNC
-7. JSON
-8. Web APIs
-9. mini Project which covers all passed material
-10. React
-11. To be continued...
+1. BOM glimpse (`DONE`)
+2. Ajax intro (`IN PROCESS`)
+3. Json intro (`IN PROCESS`)
+4. WEB Api intro (`IN PROCESS`)
+5. HTTP(get, post, headers,) - request methods (`IN PROCESS`)
+6. React Tutorial - <https://reactjs.org/tutorial/tutorial.html> (`HOPE TOMORROW WILL START THIS`)
+7. Project (`AFTER TASK 6`)
