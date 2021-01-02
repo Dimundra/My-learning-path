@@ -16,6 +16,8 @@
     #### **events --->>>**
     - `element.addEventListener(event, function, useCapture)` -
     <https://www.w3schools.com/jsref/met_element_addeventlistener.asp>
+    #### **event --->>>**
+    - `event.preventDefault()` - <https://www.w3schools.com/jsref/event_preventdefault.asp>
     #### **attributes --->>>**
     - `element."attributeName, not class attribute".[attribute property]? = "property[value of the property]?"`
     - `element.setAttribute(attributename, attributevalue)` -
